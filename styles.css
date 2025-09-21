@@ -1,0 +1,90 @@
+
+.con{
+    text-align:center;
+    font-family:"Helvetica Neue", Arial, sans-serif;
+}
+.task-main-head{
+    margin-left:100px;
+}
+.task-part{
+    font-family:"Helvetica Neue", Arial, sans-serif;
+    font-weight:700;
+}
+.task-subpart{
+    font-family:Arial;
+    font-weight:500;
+    color:#a0a0a0;
+}
+.input-item{
+   background-color: white;
+  width: 800px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+}
+.button-item{
+    height:40px;
+    width:70px;
+    border-radius:6px;
+    background-color:#4c63b6;
+    color: #ffffff;
+    border-width:0px;
+}
+.input-item-container{
+    margin-top:4px;
+    margin-right:10px;
+    padding-top:4px;
+    padding-right:5px;
+}
+.input-checkbox{
+    margin-top:4px;
+    margin-right:4px;
+    height:20px;
+    width:20px;
+}
+.checkbox-item{
+    background-color: #e6f6ff;
+  width: 700px;
+  height:40px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #096f92;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 4px;
+  margin-left:6px;
+}
+.checkbox-subpart{
+    background-color: #4c63b6;
+    height:30px;
+    width:100px;
+}
+.checkbox-input{
+     font-family:Arial;
+    font-size: 16px;
+    font-weight: 400;
+  width: 82%;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+.delete-con{
+    width:2px;
+    margin-top:7px;
+    margin-left:90px;
+}
+.delete-item{
+    margin-left:none;
+    margin-top: 2px;
+    text-align:center;
+}
+.checked{
+    text-decoration:line-through;
+}
